@@ -14,7 +14,7 @@ function App() {
         <div className="frame__links">
           <a
             className="frame__link"
-            href="https://isengupt.github.io/fiber-website/"
+            href="http://isengupt.github.io/trail-effect/"
           >
             Previous demo
           </a>
